@@ -1,6 +1,6 @@
 # Invoker-Game-AutoCast
 
-This script automates spell invocation for the hero Invoker from the game Dota 2 on the website **[example.com](https://invoker-game.com/)**. It detects the currently selected spell and performs the corresponding combination of orb key presses (`Q`, `W`, `E`) followed by the `R` key to invoke the spell.
+This script automates spell invocation for the hero Invoker from the game Dota 2 on the website **[invoker-game.com](https://invoker-game.com/)**. It detects the currently selected spell and performs the corresponding combination of orb key presses (`Q`, `W`, `E`) followed by the `R` key to invoke the spell.
 
 ## Features
 
@@ -31,7 +31,7 @@ Copy the script into a JavaScript file or paste it into the browser console.
   
 ## Prerequisites
 
-- This script is designed to work on the website **[example.com](https://invoker-game.com/)**. Ensure the following structure exists on the page:
+- This script is designed to work on the website **[invoker-game.com](https://invoker-game.com/)**. Ensure the following structure exists on the page:
   ```html
   <div class="curent__spell">
       <p>Spell Name</p>
